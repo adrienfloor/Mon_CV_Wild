@@ -1,0 +1,101 @@
+body {
+	background-color: rgb(104, 187, 285);
+	width: 900px;
+
+}
+
+
+div {
+	
+	border: 1px black solid ;
+
+}
+
+#header
+
+{
+	top:0px;
+	width: 900px;
+	height: 100px;
+}
+
+#container {
+	
+	position: absolute;
+	width: 900px;
+	height: 900px;
+
+}
+
+#rightbox
+
+{
+	display: flex;
+	flex-direction: column;
+	width: 696px;
+	
+	margin-left: 6px;
+	margin-bottom: 500px;
+	height: 897px;
+
+}
+
+
+
+#leftbox
+
+{
+	background-color: rgb(9,30,45);
+	float: left;
+	display: flex;
+	flex-direction: column;
+
+	padding-bottom: 30px;
+	width: 200px;
+	height: 867px;
+}
+
+#leftbox p 
+
+{
+	color: white;
+}
+
+#leftbox ul
+
+{
+	color: white;
+}
+
+
+
+#footer
+
+{
+	margin-top: 900px;
+	width: 900px;
+	height: 100px;
+}
+
+#studiesbox
+
+{
+	background-color: white;
+	position: center;
+	height: 450px;
+}
+
+#experiencesbox
+
+{
+	
+	background-color: white;
+	position: center;
+	height: 450px;
+}
+
+p
+
+{
+	text-align: center;
+}
